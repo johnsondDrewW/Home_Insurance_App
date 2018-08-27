@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+body{ 
+	position:absolute;
+	top:10%;
+	background-color:#ccf5ff; 
+	height:100%; 
+	width:100%;
+	overflow:auto;
+	overflow-x: scroll;
+	overflow-y: scroll;
+	
+	} 
+.error{
+	color:red;
+}
+table,tr,td{
+	border:1px solid blue;
+	padding:2px;
+}
+.panel{
+	background-color:gray;
+}
+a{
+	color:black;
+}
+#post{
+	width: 10em;  
+	height: 10em;
+}
+}
